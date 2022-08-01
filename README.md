@@ -1,9 +1,13 @@
 
 # HTML & CSS PROJECT 11 ![img](https://img.shields.io/badge/PROJECT%2011-HTML%20%26%20CSS-orange)
 
-This one is a hosting landing page which created using HTML & CSS only as well. This website is currently not responsive but in coming weeks it will be responsive.
+This one is a hosting landing page which is created using HTML & CSS only as well. This website is currently not responsive but in coming weeks it will be responsive.
 ## Video
 
+
+
+
+https://user-images.githubusercontent.com/109405477/182117425-7fe0fbcf-1fa8-4835-8921-44ab5179d814.mp4
 
 
 
